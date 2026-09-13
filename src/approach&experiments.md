@@ -1,7 +1,7 @@
 # Approach & Experiments
 
 This explains what we changed and why, relative to the provided student
-starter notebook — not a cell-by-cell walkthrough of the code itself.
+starter notebook.
 
 ## Where the starter left off
 
